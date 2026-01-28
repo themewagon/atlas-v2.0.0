@@ -27,8 +27,8 @@ jobs:
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
-                  with:
-                    github_token: ${{ secrets.GITHUB_TOKEN }}
-                    publish_dir: ./ # Deploy the entire repository root after build
-                    cname: # Add your custom domain here if you have one, e.g., 'your-domain.com'
-                    base_url: /atlas-v2.0.0/
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./ # Deploy the entire repository root after build
+          cname: # Add your custom domain here if you have one, e.g., 'your-domain.com'
+          base_url: /atlas-v2.0.0/
