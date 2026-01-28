@@ -3,6 +3,7 @@
   "version": "2.0.0",
   "author": "Red Pixel Themes",
   "private": true,
+  "homepage": "https://themewagon.github.io/atlas-v2.0.0/",
   "scripts": {
     "css": "postcss assets/styles/main.css -o assets/styles/main.min.css --verbose",
     "server-reload": "browser-sync start --config './browser-sync-config.js'",
