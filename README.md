@@ -4,7 +4,7 @@
  - [Demo](https://themewagon.github.io/atlas-v2.0.0/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/atlas-v2.0.0/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/atlas/)
 
 ## Getting Started
 
